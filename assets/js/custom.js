@@ -1,4 +1,4 @@
-  // slider 
+  // slider  
   $('.voice-trust-slider').owlCarousel({
     loop: true,
     margin: 10,
